@@ -45,10 +45,10 @@ Antes de começar, certifique-se de que tem instalado na sua máquina:
 ## 🔴 Alta Prioridade
 - [ ] Finalizar a documentação do projeto
 - [ ] Corrigir bug na autenticação de utilizadores
-- [ ] Enviar relatório semanal para a equipa
+- [x] Enviar relatório semanal para a equipa
 
 ## 🟡 Média Prioridade
-- [ ] Atualizar as dependências e bibliotecas
+- [x] Atualizar as dependências e bibliotecas
 - [ ] Rever os *Pull Requests* pendentes
 - [ ] Preparar a reunião de planeamento da próxima sprint
 
