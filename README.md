@@ -43,24 +43,24 @@ Antes de começar, certifique-se de que tem instalado na sua máquina:
 # 📋 Bloco de Tarefas
 
 ## 🔴 Alta Prioridade
-- [ ] Finalizar a documentação do projeto
-- [ ] Corrigir bug na autenticação de utilizadores
-- [x] Enviar relatório semanal para a equipa
+- [ ] Finalizar a documentação do projeto.
+- [ ] Corrigir bug na autenticação de utilizadores.
+- [x] Enviar relatório semanal para a equipa.
 
 ## 🟡 Média Prioridade
-- [x] Atualizar as dependências e bibliotecas
-- [ ] Rever os *Pull Requests* pendentes
-- [ ] Preparar a reunião de planeamento da próxima sprint
+- [x] Atualizar as dependências e bibliotecas.
+- [ ] Rever os *Pull Requests* pendentes.
+- [ ] Preparar a reunião de planeamento da próxima sprint.
 
 ## 🟢 Baixa Prioridade / Backlog
-- [ ] Melhorar a paleta de cores da interface
-- [ ] Pesquisar novas ferramentas de CI/CD
-- [ ] Organizar a documentação legada
+- [ ] Melhorar a paleta de cores da interface.
+- [ ] Pesquisar novas ferramentas de CI/CD.
+- [ ] Organizar a documentação legada.
 
 ## ✅ Concluído
-- [x] Criar o repositório inicial
-- [x] Escrever o ficheiro README.md
-- [ ] Configurar o ambiente de desenvolvimento
+- [x] Criar o repositório inicial.
+- [x] Escrever o ficheiro README.md.
+- [ ] Configurar o ambiente de desenvolvimento.
 
 ### 1. Clonar o Repositório
 
